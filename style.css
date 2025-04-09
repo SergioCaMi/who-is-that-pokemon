@@ -67,6 +67,13 @@ body {
   text-align: center;
 }
 
+#check{
+  width: 5rem;
+  height: 3rem;
+  background-color: #ffcc00;
+  font-size: 1rem;
+}
+
 @media (max-width: 500px) {
   .row {
     flex-flow: column;
